@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+	<person>
+		<name>小贺</name>
+		<age>20</age>
+	</person>
+
+	<person>
+		<name>小long</name>
+		<age>10</age>
+	</person>
+
+
+</persons>
